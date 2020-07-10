@@ -1,5 +1,5 @@
 ### Hi there 👋
-### Learning to code so if you see some ridiculous stuff here that means I'm still bad at it.
+### I'm learning to code so if you see some ridiculous stuff here that means I'm still bad at it.
 <!--
 **codeMazed/codeMazed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
