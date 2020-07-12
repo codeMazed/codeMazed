@@ -1,4 +1,4 @@
-https://github.com/codeMazed/codeMazed/blob/master/mazedPics/git_BG.png
+<img src="https://github.com/codeMazed/codeMazed/blob/master/mazedPics/git_BG.png">
 ### Hi there 👋
 ### I'm learning to code so if you see some ridiculous stuff here that means I'm still bad at it.
 <!--
